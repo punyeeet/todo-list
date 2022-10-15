@@ -49,7 +49,7 @@ function App() {
     }
     setTodos([...todos,myTodo]);
     console.log(myTodo);
-  }
+  } 
   return (
 <> 
     
