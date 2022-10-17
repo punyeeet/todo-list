@@ -1,5 +1,5 @@
 
-import './App.css';
+// import './App.css';
 import { Header } from "./MyComponents/Header.1";
 import { Footer } from './MyComponents/Footer';
 import { Todos } from './MyComponents/Todos';
